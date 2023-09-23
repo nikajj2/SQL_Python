@@ -1,0 +1,15 @@
+﻿Course_ID,Department ,Course_Name
+103,CSC,Intro to Computer Science
+104,CSC,Discrete Math
+211,CSC,Fundamentals Computer Systems
+221,CSC,Software Design Laboratory 
+220,CSC,Algorithm 
+322,CSC,Software Engineering 
+336,CSC,Database
+103,EE,Linear Systems Analysis I
+104,EE,Switching Systems
+211,EE,Electronics I
+221,EE,Linear Systems Analysis II
+321,EE,Communication Theory
+330,EE,Electromagnetics
+457,EE,Digital Integrated Circuits
